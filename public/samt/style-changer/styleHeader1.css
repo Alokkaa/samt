@@ -1,0 +1,19 @@
+.header1-demosite {
+	display: block;
+	visibility: visible;
+}
+
+.header2-demosite {
+	display: none;
+	visibility: hidden;
+}
+
+.header3-demosite {
+	display: none;
+	visibility: hidden;
+}
+
+.header4-demosite {
+	display: none;
+	visibility: hidden;
+}
