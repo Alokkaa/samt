@@ -72,7 +72,7 @@
         <div id="header" class="header-wrapper header2 header1-demosite">
             <div class="header-inner-wrapper">
                 <div class="logo">
-                    <a href="{{ url('/index') }}" title=""><img id="logoImage" src="samt/images/logo.png" alt="" title="" /><img id="logoImageRetina" src="samt/images/logo-retina.png" alt="" title="" /></a>
+                    <a href="{{ url('/index') }}" title=""><img id="logoImage" src="samt/images/logo.psd" alt="" title="" /><img id="logoImageRetina" src="samt/images/logo-retina.png" alt="" title="" /></a>
                     <div class="clear"></div>
                     <div class="logo-text">Agency &amp; Portfolio HTML Theme</div>
                 </div>
