@@ -75,7 +75,7 @@
                                                     </div>
                                                     
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-4-600x400.jpg" title="Camera and lens"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400">
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="https://www.youtube.com/embed/o_Py8NRS-zs" title="Camera and lens"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" max-height="37px">
                                                        </iframe>
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
