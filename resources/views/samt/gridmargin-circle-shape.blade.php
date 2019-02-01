@@ -1,143 +1,75 @@
 @include('samt.header')
 
-        <div class="container-wrapper">
-            <div id="container">
-                <!-- start container -->
-                <div class="center">
-                    <div class="page-wrapper">
-
-                        <div id="post-517" class="post-517 page type-page status-publish hentry">
-                            <div class="vc_row wpb_row vc_row-fluid">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="wpb_content_element vc_portfolio_items">
-                                                <ul id="filters" class="option-set" data-option-key="filter">
-                                                    <li class="filter-cat"><a href="#filter" data-option-value="*" class="selected">All</a></li>
-                                                    <li class="filter-cat"><a href="#filter" data-option-value=".art">art</a></li>
-                                                    <li class="filter-cat"><a href="#filter" data-option-value=".business">business</a></li>
-                                                    <li class="filter-cat"><a href="#filter" data-option-value=".design">design</a></li>
-                                                    <li class="filter-cat"><a href="#filter" data-option-value=".wordpress">wordpress</a></li>
-                                                </ul>
-                                                <div class="clear"></div>
-                                                <div class="pego-isotope-wrapper portfolio-items-wrapper portfolio-items-660 portfolio-type2">
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art business">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/agency-3-400x400.jpg" title="Buy T-shirt"><img src="samt/upload/agency-3-400x400.jpg" width="400" height="400" alt="agency-3" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Buy T-shirt</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art, business</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/elements-400x400.jpg" title="Elements"><img src="samt/upload/elements-400x400.jpg" width="400" height="400" alt="elements" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Elements</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art wordpress">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/for-bloggers-400x400.jpg" title="For bloggers"><img src="samt/upload/for-bloggers-400x400.jpg" width="400" height="400" alt="for-bloggers" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">For bloggers</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art, wordpress</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design wordpress">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/agency-2a-400x400.jpg" title="New amazing WordPress theme"><img src="samt/upload/agency-2a-400x400.jpg" width="400" height="400" alt="agency-2a" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">New amazing WordPress theme</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design, wordpress</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/agency-7-400x400.jpg" title="Notebook"><img src="samt/upload/agency-7-400x400.jpg" width="400" height="400" alt="agency-7" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Notebook</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/agency-4-400x400.jpg" title="Camera and lens"><img src="samt/upload/agency-4-400x400.jpg" width="400" height="400" alt="agency-4" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Camera and lens</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">business, design</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/web-agency-400x400.jpg" title="Creating art"><img src="samt/upload/web-agency-400x400.jpg" width="400" height="400" alt="web-agency" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Creating art</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">business</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-circle zoom" href="samt/upload/agency-1-400x400.jpg" title="Blue notes"><img src="samt/upload/agency-1-400x400.jpg" width="400" height="400" alt="agency-1" />
-                                                            <div class="portfolio-items-single-overlay-details shape-center type-dark">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Blue notes</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<div class="container-fluid pb-video-container">
+    <div class="col-md-10 col-md-offset-1">
+        <h3 class="text-center">Sample Video Gallery</h3>
+        <div class="row pb-row">
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/K68UrdUOr2Y?list=RDzuAcaBkcYGE?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">Claydee - Alena</label>
             </div>
-            <!-- end container -->
-            <div class="clear"></div>
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/wjT2JVlUFY4?list=RDzuAcaBkcYGE?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">Manuel Riva - Mhm Mhm</label>
+            </div>
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame " width="100%" height="230" src="https://www.youtube.com/embed/papuvlVeZg8?list=RDzuAcaBkcYGE?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">Clean Bandit - Rockabye</label>
+            </div>
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/Y1_VsyLAGuk?list=RDzuAcaBkcYGE?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">Burak Yeter - Tuesday</label>
+            </div>
         </div>
+        <div class="row pb-row">
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/UY1bt8ilps4?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">F.O. and Peeva - Lichnata</label>
+            </div>
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/QpbQ4I3Eidg?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">Machine Gun - Bad Things</label>
+            </div>
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/h3kRIxLruDs?ecver=" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">INNA - Say it with your body</label>
+            </div>
+            <div class="col-md-3 pb-video">
+                <iframe class="pb-video-frame" width="100%" height="230" src="https://www.youtube.com/embed/Jr4TMIU9oQ4?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <label class="form-control label-warning text-center">INNA - Gimme Gimme</label>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .pb-video-container {
+        padding-top: 20px;
+        background: #bdc3c7;
+        font-family: Lato;
+    }
+
+    .pb-video {
+        border: 1px solid #e6e6e6;
+        padding: 5px;
+    }
+
+        .pb-video:hover {
+            background: #2c3e50;
+        }
+
+    .pb-video-frame {
+        transition: width 2s, height 2s;
+    }
+
+        .pb-video-frame:hover {
+            height: 300px;
+        }
+
+    .pb-row {
+        margin-bottom: 10px;
+    }
+</style>
 
 @include('samt.footer')
   
