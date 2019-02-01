@@ -36,7 +36,7 @@ $(document).ready(function($) {
     try {
         var ZoomImage = jQuery('.zoom, .zoom-image');
         ZoomImage.magnificPopup({
-            //type: 'iframe',
+            type: 'inline',
              gallery: {
                 enabled: true
             }
