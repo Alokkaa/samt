@@ -33,16 +33,16 @@ $(document).ready(function($) {
         });
     });
 
-    // try {
-    //     var ZoomImage = jQuery('.zoom, .zoom-image');
-    //     ZoomImage.magnificPopup({
-    //         type: 'iframe',
-    //          gallery: {
-    //             enabled: true
-    //         }
-    //     });
-    // } catch (err){
+    try {
+        var ZoomImage = jQuery('.zoom, .zoom-image');
+        ZoomImage.magnificPopup({
+            //type: 'iframe',
+             gallery: {
+                enabled: true
+            }
+        });
+    } catch (err){
 
-    // }
+    }
 
 });
