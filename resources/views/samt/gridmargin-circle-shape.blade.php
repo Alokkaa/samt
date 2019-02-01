@@ -74,9 +74,8 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-7-600x400.jpg" title="Notebook"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400"</iframe>
-                                                       </iframe>
-                                                            
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-7-600x400.jpg" title="Notebook"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="400" height="300"</iframe>
+                                                       <p>Your browser does not support iframes.</p>
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
