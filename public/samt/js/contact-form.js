@@ -65,7 +65,7 @@ $('.zoom, .zoom-image').magnificPopup({
  callbacks: {
  elementParse: function(item) {
  // the class name
- if(item.el.context.className == 'video-link') {
+ if(item.el.context.className == 'video') {
  item.type = 'iframe';
  } else {
  item.type = 'image';
