@@ -35,7 +35,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/elements-600x400.jpg" title="Elements"><img src="samt/samt/upload/elements-600x400.jpg" width="600" height="400" alt="elements" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/elements-600x400.jpg" title="Elements"><img src="samt/upload/elements-600x400.jpg" width="600" height="400" alt="elements" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -48,7 +48,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/for-bloggers-600x400.jpg" title="For bloggers"><img src="samt/samt/upload/for-bloggers-600x400.jpg" width="600" height="400" alt="for-bloggers" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/for-bloggers-600x400.jpg" title="For bloggers"><img src="samt/upload/for-bloggers-600x400.jpg" width="600" height="400" alt="for-bloggers" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
