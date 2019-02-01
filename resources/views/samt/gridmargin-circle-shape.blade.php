@@ -73,14 +73,10 @@
                                                             </div>
                                                         </a>
                                                     </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-7-600x400.jpg" title="Notebook"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400">
-                                                       </iframe>
-                                                            
-                                                        </a>
-                                                    </div>
+                                                    
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-4-600x400.jpg" title="Camera and lens"><img src="samt/upload/agency-4-600x400.jpg" width="600" height="400" alt="agency-4" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-4-600x400.jpg" title="Camera and lens"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400">
+                                                       </iframe>
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
