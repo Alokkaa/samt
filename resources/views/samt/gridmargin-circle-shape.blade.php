@@ -22,7 +22,7 @@
                                                 <div class="clear"></div>
                                                 <div class="pego-isotope-wrapper portfolio-items-wrapper portfolio-items-1180 portfolio-type2">
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art business">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-3-600x400.jpg" title="Buy T-shirt"><img src="upload/agency-3-600x400.jpg" width="600" height="400" alt="agency-3" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-3-600x400.jpg" title="Buy T-shirt"><img src="samt/upload/agency-3-600x400.jpg" width="600" height="400" alt="agency-3" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -74,12 +74,13 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-7-600x400.jpg" title="Notebook"><img src="samt/upload/agency-7-600x400.jpg" width="600" height="400" alt="agency-7" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-7-600x400.jpg" title="Notebook"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400"</iframe>
+                                                       </iframe>
                                                             
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-4-600x400.jpg" title="Camera and lens"><img src="upload/agency-4-600x400.jpg" width="600" height="400" alt="agency-4" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-4-600x400.jpg" title="Camera and lens"><img src="samt/upload/agency-4-600x400.jpg" width="600" height="400" alt="agency-4" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -92,7 +93,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/web-agency-600x400.jpg" title="Creating art"><img src="upload/web-agency-600x400.jpg" width="600" height="400" alt="web-agency" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/web-agency-600x400.jpg" title="Creating art"><img src="samt/upload/web-agency-600x400.jpg" width="600" height="400" alt="web-agency" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -105,7 +106,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-1-600x400.jpg" title="Blue notes"><img src="upload/agency-1-600x400.jpg" width="600" height="400" alt="agency-1" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-1-600x400.jpg" title="Blue notes"><img src="samt/upload/agency-1-600x400.jpg" width="600" height="400" alt="agency-1" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -118,7 +119,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-6-600x400.jpg" title="Company identity"><img src="upload/agency-6-600x400.jpg" width="600" height="400" alt="agency-6" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-6-600x400.jpg" title="Company identity"><img src="samt/upload/agency-6-600x400.jpg" width="600" height="400" alt="agency-6" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -131,7 +132,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/barkings-600x400.jpg" title="Barking"><img src="upload/barkings-600x400.jpg" width="600" height="400" alt="barkings" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/barkings-600x400.jpg" title="Barking"><img src="samt/upload/barkings-600x400.jpg" width="600" height="400" alt="barkings" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
@@ -144,7 +145,7 @@
                                                         </a>
                                                     </div>
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-5a-600x400.jpg" title="Business mockup"><img src="upload/agency-5a-600x400.jpg" width="600" height="400" alt="agency-5a" />
+                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-5a-600x400.jpg" title="Business mockup"><img src="samt/upload/agency-5a-600x400.jpg" width="600" height="400" alt="agency-5a" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
                                                                 <div class="portfolio-items-single-overlay-table">
                                                                     <div class="portfolio-items-single-overlay-table-cell">
