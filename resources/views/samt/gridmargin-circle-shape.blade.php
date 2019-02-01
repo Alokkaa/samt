@@ -22,18 +22,9 @@
                                                 <div class="clear"></div>
                                                 <div class="pego-isotope-wrapper portfolio-items-wrapper portfolio-items-1180 portfolio-type2">
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art business">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-3-600x400.jpg" title="Buy T-shirt"><iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400"</iframe>
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Buy T-shirt</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art, business</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
+                                                        <iframe src="https://www.youtube.com/embed/o_Py8NRS-zs" width="600" height="400"</iframe>
+                                                       </iframe>
+                                                   </div>     
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
                                                         <a class="portfolio-items-single-url shape-normal zoom" href="upload/elements-600x400.jpg" title="Elements"><img src="samt/upload/elements-600x400.jpg" width="600" height="400" alt="elements" />
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
