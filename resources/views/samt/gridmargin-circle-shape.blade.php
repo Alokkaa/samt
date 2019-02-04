@@ -25,8 +25,8 @@
                                                     
                                                     
                                                     
-
-                                                    @foreach($videos = 12 as $video)
+                                                    
+                                                    @foreach($videos as $video)
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
                                                         <a class="portfolio-items-single-url shape-normal youtube" href="https://www.youtube.com/watch?v=dSLW6rihvpI" title="Camera and lens"><iframe width="600" max-height="35px" src="https://www.youtube.com/embed/dSLW6rihvpI" frameborder="0"></iframe>
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
