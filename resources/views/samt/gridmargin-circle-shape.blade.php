@@ -21,59 +21,12 @@
                                                 </ul>
                                                 <div class="clear"></div>
                                                 <div class="pego-isotope-wrapper portfolio-items-wrapper portfolio-items-1180 portfolio-type2">
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art business">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-3-600x400.jpg" title="Buy T-shirt"><img src="samt/upload/agency-3-600x400.jpg" width="600" height="400" alt="agency-3" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Buy T-shirt</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art, business</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/elements-600x400.jpg" title="Elements"><img src="samt/upload/elements-600x400.jpg" width="600" height="400" alt="elements" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Elements</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/for-bloggers-600x400.jpg" title="For bloggers"><img src="samt/upload/for-bloggers-600x400.jpg" width="600" height="400" alt="for-bloggers" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">For bloggers</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art, wordpress</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-2a-600x400.jpg" title="New amazing WordPress theme"><img src="samt/upload/agency-2a-600x400.jpg" width="600" height="400" alt="agency-2a" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">New amazing WordPress theme</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design, wordpress</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
+                                                   
                                                     
+                                                    
+                                                    
+
+                                                    @foreach($videos = 12 as $video)
                                                     <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business design">
                                                         <a class="portfolio-items-single-url shape-normal youtube" href="https://www.youtube.com/watch?v=dSLW6rihvpI" title="Camera and lens"><iframe width="600" max-height="35px" src="https://www.youtube.com/embed/dSLW6rihvpI" frameborder="0"></iframe>
                                                             <div class="portfolio-items-single-overlay-details shape- type-light">
@@ -87,71 +40,12 @@
                                                             </div>
                                                         </a>
                                                     </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item business">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/web-agency-600x400.jpg" title="Creating art"><img src="samt/upload/web-agency-600x400.jpg" width="600" height="400" alt="web-agency" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Creating art</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">business</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-1-600x400.jpg" title="Blue notes"><img src="samt/upload/agency-1-600x400.jpg" width="600" height="400" alt="agency-1" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Blue notes</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-6-600x400.jpg" title="Company identity"><img src="samt/upload/agency-6-600x400.jpg" width="600" height="400" alt="agency-6" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Company identity</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">wordpress</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item design">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/barkings-600x400.jpg" title="Barking"><img src="samt/upload/barkings-600x400.jpg" width="600" height="400" alt="barkings" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Barking</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">design</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-items-single portfolio-small-item portfolio-columns4 isotope-item art wordpress">
-                                                        <a class="portfolio-items-single-url shape-normal zoom" href="upload/agency-5a-600x400.jpg" title="Business mockup"><img src="samt/upload/agency-5a-600x400.jpg" width="600" height="400" alt="agency-5a" />
-                                                            <div class="portfolio-items-single-overlay-details shape- type-light">
-                                                                <div class="portfolio-items-single-overlay-table">
-                                                                    <div class="portfolio-items-single-overlay-table-cell">
-                                                                        <h1 class="portfolio-items-single-overlay-details-title">Business mockup</h1>
-                                                                        <div class="clear"></div>
-                                                                        <div class="portfolio-items-single-overlay-details-categories">art, wordpress</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
+
+                                                    @Endforeach
+                                               
+                                                   
+                                                   
+                                               
                                                 </div>
                                             </div>
                                         </div>
