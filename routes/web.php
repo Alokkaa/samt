@@ -20,7 +20,7 @@ Route::view('/about-us', 'samt.about-us');
 Route::view('/about-us', 'samt.about-us');
 Route::view('/index', 'samt.index');
 Route::view('/gridmargin-5-column', 'samt.gridmargin-5-column');
-Route::view('/gridmargin-circle-shape', 'samt.gridmargin-circle-shape')->with($videos => 12);
+Route::view('/gridmargin-circle-shape', 'samt.gridmargin-circle-shape',['videos' => 12]);
 Route::view('/classic-blog', 'samt.classic-blog');
 Route::view('/minimalistic-blog-2', 'samt.minimalistic-blog-2');
 Route::view('/contact', 'samt.contact');
